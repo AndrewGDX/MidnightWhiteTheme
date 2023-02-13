@@ -1,0 +1,23 @@
+{
+  "name": "Midnight White",
+  "version": "1.0",
+  "description": "Just a black toolbar with a white background",
+  "manifest_version": 3,
+  "theme": {
+    "colors": {
+      "frame": [43, 53, 60],
+      "toolbar": [72, 86, 95],
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [255, 255, 255],
+      "bookmark_text": [255, 255, 255],
+      "ntp_background": [255, 255, 255],
+      "ntp_text": [43, 53, 60],
+      "ntp_link": [43, 53, 60],
+      "button_background": [45, 53, 59, 0.01]
+    },
+    "tints": {
+      "buttons": [0, 0, 1],
+      "frame_inactive": [0.5, 0.5, 0.4]
+    }
+  }
+}
